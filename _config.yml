@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Xu Zhang"
-  avatar           : "IMG_5489.jpg"
+  avatar           : "IMG_5489.JPG"
   bio              : "Registered Dietitian"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : 
   googlescholar    : 
