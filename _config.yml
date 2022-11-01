@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Xu Zhang"
+  avatar           : "IMG_5489.jpg"
+  bio              : "Registered Dietitian"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "2020112012111@stu.hznu.edu.cn"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -175,33 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
 
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -209,10 +189,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _academic experience
   - scope:
       path: ""
-      type: teaching
+      type: academic experience
     values:
       layout: single
       author_profile: true
@@ -227,23 +207,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
