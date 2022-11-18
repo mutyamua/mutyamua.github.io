@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Food Quality and Safety, Central South University of Forestry and Technology, 2009-2013
+* M.S. in Public Health, Hangzhou Normal University, 2020-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2018 - Sep 2019: Dietitian
+  * Aidigong Maternal and Child Health Ltd
+  * Duties included: Provided postpartum diet plan and nutrition-related support
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar 2017 - Apr 2018: Dietitian
+  * Guangzhou Nanda Fit Nutrition and Health Consulting Co.,Ltd
+  * Duties included: Provided medical nutrition therapy, nutrition education, dietary counseling services 
+
+* Aug 2013 - Jan 2017: Engineer trainee
+  * Bureau Veritas Shenzhen Co.,Ltd
+  * Duties included: Analyzed children's behavior basing on development stage of children and evaluated products' appropriate age grade
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
+* Nutritional assessments
 
 Publications
 ======
@@ -42,18 +40,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
