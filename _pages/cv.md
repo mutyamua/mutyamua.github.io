@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Food Quality and Safety, Central South University of Forestry and Technology, 2009-2013
-* M.S. in Public Health, Hangzhou Normal University, 2020-present
+* B.Eng. in Food Quality and Safety, Central South University of Forestry and Technology, 2009
+* M.S. in Public Health, Hangzhou Normal University, 2020
 
 Work experience
 ======
