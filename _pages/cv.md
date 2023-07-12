@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Food Quality and Safety, Central South University of Forestry and Technology, 2009
-* M.S. in Public Health, Hangzhou Normal University, 2020
+* B.Eng. in Food Quality and Safety, Central South University of Forestry and Technology, 2013
+* M.S. in Public Health, Hangzhou Normal University, 2023
 
 Work experience
 ======
@@ -25,12 +25,11 @@ Work experience
   * Duties included: Provided medical nutrition therapy, nutrition education, dietary counseling services 
 
 * Aug 2013 - Jan 2017: Engineer trainee
-  * Bureau Veritas Shenzhen Co.,Ltd
+  * Shenzhen ZOOP Products Technology Consulting Co.,Ltd
   * Duties included: Analyzed children's behavior basing on development stage of children and evaluated products' appropriate age grade
   
 Skills
 ======
-* Python
 * R
 * Nutritional assessments
 
